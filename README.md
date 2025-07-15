@@ -54,13 +54,15 @@ I'm currently deep-diving into JavaScript while strengthening my problem-solving
 
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshYadav-dev&show_icons=true&theme=radical)](https://github.com/AdarshYadav-dev)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdarshYadav-dev&theme=tokyonight&border_radius=8&hide_border=true" height="200"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav-dev&layout=compact&theme=tokyonight&border_radius=8&hide_border=true&langs_count=6" height="200"/>
-
-</div>
----
+  <!-- 🔥 GitHub Streak Stats -->
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdarshYadav-dev&theme=tokyonight&border_radius=8&hide_border=true" height="200" />
+  
+  <!-- 🧠 Most Used Languages -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav-dev&layout=compact&theme=tokyonight&border_radius=8&hide_border=true&langs_count=6" height="200" />
 
 ## ✍️ Random Dev Quote
+---
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
