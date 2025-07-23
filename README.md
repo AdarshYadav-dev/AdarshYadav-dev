@@ -54,15 +54,6 @@ I'm currently deep-diving into JavaScript while strengthening my problem-solving
 
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshYadav-dev&show_icons=true&theme=radical)](https://github.com/AdarshYadav-dev)
 
- <!-- 🔥 GitHub Streak Stats -->
-<br/>
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=AdarshYadav-dev&theme=tokyonight&hide_border=true&border_radius=8"
-    alt="Adarsh's GitHub streak"
-  />
-</p>
-
 <br/>
   
   <!-- 🧠 Most Used Languages -->
