@@ -54,11 +54,12 @@ I'm currently deep-diving into JavaScript while strengthening my problem-solving
 
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshYadav-dev&show_icons=true&theme=radical)](https://github.com/AdarshYadav-dev)
 
-  <!-- 🔥 GitHub Streak Stats -->
-  <br/>
-  <img 
-  src="https://streak-stats.demolab.com/?user=AdarshYadav-dev&theme=tokyonight&border_radius=8&hide_border=true" 
+ <!-- 🔥 GitHub Streak Stats -->
+<br/>
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshYadav-dev&theme=tokyonight&hide_border=true&border_radius=8" 
   alt="Adarsh's GitHub streak"/>
+<br/>
   
   <!-- 🧠 Most Used Languages -->
   <br/>
