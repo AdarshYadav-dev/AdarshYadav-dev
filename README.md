@@ -56,7 +56,9 @@ I'm currently deep-diving into JavaScript while strengthening my problem-solving
 
   <!-- 🔥 GitHub Streak Stats -->
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AdarshYadav-dev&theme=tokyonight&border_radius=8&hide_border=true" height="200" />
+  <img 
+  src="https://streak-stats.demolab.com/?user=AdarshYadav-dev&theme=tokyonight&border_radius=8&hide_border=true" 
+  alt="Adarsh's GitHub streak"/>
   
   <!-- 🧠 Most Used Languages -->
   <br/>
