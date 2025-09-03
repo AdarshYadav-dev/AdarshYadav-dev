@@ -1,4 +1,4 @@
-## About Me 🚀:
+## About Me 🚀:-
 ---
 
 I'm Adarsh Yadav —  a passionate self-taught developer who believes in consistency, deep learning, and building real-world projects with impact. I spend most of my time improving my coding skills, exploring new technologies, and pushing myself beyond limits.
