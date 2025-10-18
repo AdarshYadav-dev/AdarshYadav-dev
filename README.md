@@ -60,10 +60,16 @@ Check my contributions on my [GitHub profile](https://github.com/AdarshYadav-dev
   [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdarshYadav-dev&show_icons=true&theme=radical)](https://github.com/AdarshYadav-dev)
 
 <br/>
-  
+
   <!-- 🧠 Most Used Languages -->
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshYadav-dev&layout=compact&theme=tokyonight&border_radius=8&hide_border=true&langs_count=6" height="200" />
+
+  <!-- 🔥 GitHub Streak Stats -->
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=AdarshYadav-dev&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" />
+
+</div>
 
 ## ✍️ Random Dev Quote
 ---
