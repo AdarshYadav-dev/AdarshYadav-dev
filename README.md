@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 ---
-I'm Adarsh Yadav — who believes in consistency, deep learning, and building real-world projects with impact. I spend most of my time improving my coding skills, exploring new technologies, and pushing myself beyond limits.
+I'm Adarsh Yadav  who believes in consistency, deep learning, and building real-world projects with impact. I spend most of my time improving my coding skills, exploring new technologies, and pushing myself beyond limits.
 
 I'm currently deep-diving into JavaScript while strengthening my problem-solving skills through daily DSA practice guided by a resilient mindset to shape my own path through focused learning, discipline, and hard work. Currently exploring Redux & Scripting & automation with PowerShell for Windows environments.
 
