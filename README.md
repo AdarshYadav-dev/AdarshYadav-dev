@@ -74,8 +74,7 @@ Check my contributions on my [GitHub profile](https://github.com/AdarshYadav-dev
 
   <!-- 🔥 GitHub Streak Stats -->
   <br/>
-  <img src="https://streak-stats.demolab.com?user=AdarshYadav-dev&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" />
-
+ <img src="https://streak-stats.vercel.app?user=AdarshYadav-dev&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF4500&ring=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" />
 </div>
 
 ---
