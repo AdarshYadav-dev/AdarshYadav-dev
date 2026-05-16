@@ -4,10 +4,8 @@
 
 I'm Adarsh Yadav  who believes in consistency, deep learning, and building real-world projects with impact. I spend most of my time improving my coding skills, exploring new technologies, and pushing myself beyond limits.
 
-I'm currently deep-diving into JavaScript while strengthening my problem-solving skills through daily DSA practice guided by a resilient mindset to shape my own path through focused learning, discipline, and hard work. Currently exploring Redux & Scripting & automation with PowerShell for Windows environments.
+I'm currently deep-diving into JavaScript while strengthening my problem-solving skills through daily DSA practice guided by a resilient mindset to shape my own path through focused learning, discipline, and hard work.
 
-[![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?logo=github&style=for-the-badge)](https://github.com/AdarshYadav-dev)  
-**Open Source Contributor** — I actively contribute to public repositories (PRs, issues, reviews).  
 Check my contributions on my [GitHub profile](https://github.com/AdarshYadav-dev).
 
 
